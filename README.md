@@ -1,9 +1,9 @@
-# Malware-Analysis 
+
 In this repository I would be uploading some courses links and some books. Stay tuned for more.  
 
 --------------------------------------------------------------------------------------------------------------------------
 
-🔥 Paid Courses Full links
+🔥 Important Courses Full links
 
 ‍ 🔰Hadoop Fundamentals🔰
 
